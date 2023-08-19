@@ -1,0 +1,11 @@
+ກປ.ອອນໄລ - ຜູ້ຊ່ຽວຊານດ້ານຄວາມປອດໄພແມ່ນທ້າວ ໂງແອັງຮຸຍ ແລະທ້າວ ໂດ໊ກວາງແທັງ ສັງກັດບໍລິສັດຄວາມປອດໄພທາງເຄືອຂ່າຍອິນເຕີເນັດ Viettel - ສະມາຊິກຂອງກຸ່ມບໍລິສັດອຸດສາຫະກຳ - ໂທລະຄົມມະນາຄົມກອງທັບ (Viettel) ໄດ້ຮັບລາງວັນທີ່ການແຂ່ງຂັນ Pwn2Own Tokyo 2020.	KPR Online - Các chuyên gia bảo mật Ngô An Huy và Dok Quang Thanh của công ty an ninh mạng Viettel, là thành viên của Tập đoàn Công nghiệp Viễn thông Quân đội (Viettel), đã giành chiến thắng trong cuộc thi Pwn2Own Tokyo 2020.
+Viettel ແມ່ນທີມຂອງຫວຽດນາມ ໜຶ່ງດຽວທີ່ເຂົ້າຮ່ວມການແຂ່ງຂັນຄັ້ງນີ້.	Viettel là đội duy nhất của Việt Nam góp mặt tại giải đấu này.
+Pwn2Own ແມ່ນການແຂ່ງຂັນບຸກໂຈມຕີທາງອິນເຕີເນັດທີ່ມີອິດທິພົນຊື່ສຽງ ແລະໃຫຍ່ທີ່ສຸດໃນໂລກ, ໂດຍບໍລິສັດຮັກສາຄວາມປອດໄພ TrendMicro ຈັດຕັ້ງເປັນປະຈຳປີນັບແຕ່ປີ 2007.	Pwn2Own là cuộc thi chống tấn công mạng có ảnh hưởng và uy tín nhất thế giới do hãng bảo mật TrendMicro tổ chức thường niên từ năm 2007.
+ຢູ່ທີ່ນີ້, ບັນດາບໍລິສັດເຕັກໂນໂລຢີທີ່ມີຊື່ສຽງຈະນຳເອົາຜະລິດຕະພັນຂອງຕົນເພື່ອເປັນເປົ້າໝາຍໃນການທົດສອບ.	Tại đây, các hãng công nghệ nổi tiếng sẽ mang sản phẩm của mình ra thử nghiệm.
+ບັນດາແຮກເກີຈະສະແດງທັກສະຂອງຕົນເພື່ອໂຈມຕີ.	Tin tặc sẽ thể hiện kỹ năng tấn công của họ.
+ຜູ້ຊ່ຽວຊານດ້ານຄວາມປອດໄພສອງຄົນຂອງ Viettel.	Hai chuyên gia bảo mật của Viettel.
+ພາບ: ວັນຟອງ.	Ảnh: Bubble Day
+ທີ່ການແຂ່ງຂັນ Pwn2Own ໄດ້ຈັດຕັ້ງຢູ່ໂຕກຽວ (ຍີ່ປຸ່ນ), ສຸມໃສ່ບັນດາອຸປະກອນມືຖື ແລະIoT ລວມມີ: ໂທລະສັບ, ເຮືອນສະຫຼາດ, SmartTV.	Cuộc thi Pwn2Own được tổ chức tại Tokyo (Nhật Bản), tập trung vào các thiết bị di động và IoT bao gồm: Điện thoại, Điện thoại thông minh, SmartTV.
+ເຂົ້າຮ່ວມການແຂ່ງຂັນປີນີ້້, ຜູ້ຊ່ຽວຊານ 2 ຄົນຂອງ Viettel ໄດ້ປະຕິບັດການຢຶດສິດບັນຊາ SmartTV.	Tham gia cuộc thi năm nay, hai chuyên gia của Viettel đảm nhận vị trí chỉ huy SmartTV.
+ບໍລິສັດດ້ານຄວາມປອດໄພທາງເຄືອຂ່າຍອິນເຕີເນັດ Viettel (Viettel Cyber Security) ແມ່ນບໍລິສັດຂຶ້ນກັບກຸ່ມບໍລິສັດ Viettel, ປະຕິບັດໜ້າທີ່ຄົ້ນຄວ້າລົງເລິກ, ພັດທະນາ, ໃຫ້ຄຳປຶກສາມາດຕະການໃນທຸກຂົງເຂດກ່ຽວກັບຄວາມປອດໄພທາງເຄືອຂ່າຍອິນເຕີເນັດ.	Viettel Cyber Security là công ty con của Tập đoàn Viettel, chuyên nghiên cứu, phát triển và tư vấn các biện pháp trong tất cả các lĩnh vực an ninh mạng.
+ໂດຍ: ແສງເດືອນ.	Bởi: Moonlight.

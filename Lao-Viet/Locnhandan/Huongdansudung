@@ -1,0 +1,6 @@
+em gửi anh code ạ.
+hướng dẫn chạy
+1. activate environment "conda activate vecalign"
+2. python cosine_sim.py -i input_folder -o output_folder
+input_folder: đường dẫn tới thư mục chứa các file song ngữ (Lưu ý hiện tại Tiếng Lào phải đứng trước tiếng Việt, giống văn bản mẫu)
+output_folder: đường dẫn tới thư mục output sẽ chứa các file output.

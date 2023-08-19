@@ -1,0 +1,7 @@
+ກປ.ອອນໄລ - ວັນທີ 24 ທັນວາ 2018, Viettel Telecom ໄດ້ແນະນໍາບໍລິການໂທທີ່ມີຄຸນນະພາບສູງ VoLTE - Voice over LTE ເຄື່ອນໄຫວຢ່າງເປັນທາງການບົນພື້ນຖານເຄືອຂ່າຍ 4 ຈີ ໃຫ້ແກ່ລູກຄ້າໃນເວລາໂທລະສັບຢ່າງແທ້ຈິງກວ່າ.	KPR Online - Ngày 24/12/2018, Viettel Telecom đã chính thức giới thiệu dịch vụ gọi thoại chất lượng cao VoLTE - Voice over LTE trên nền tảng mạng 4G theo thời gian thực tới khách hàng.
+ບັນດາວິສະວະກອນ Viettel ຍູ້ແຮງຄວາມຄືບໜ້າການທົດລອງບັນດາໂປແກມກ່ອນທີ່ສະໜອງໃຫ້ລູກຄ້າ.	Các kỹ sư Viettel đẩy nhanh tiến độ thử nghiệm chương trình trước khi giao cho khách hàng.
+ພາບ: ເກີມທຸຍ.	Ảnh: Kem Thủy
+VoLTE ຈະປ່ຽນແທນໃຫ້ວິທີການ CS Fallback ທີ່ເຄີຍເຄື່ອນໄຫວບົນພື້ນຖານເຄືອຂ່າຍ 2ຈີ/3ຈີ.	VoLTE sẽ thay thế phương pháp CS Dự phòng trước đây dựa trên mạng 2 / 3G.
+ຄຸນປະໂຫຍດທໍາອິດແມ່ນການໂທ VoLTE ເສຍເວລາພຽງແຕ່ 2,7 ວິນາທີເທົ່ານັ້ນ, ເຊິ່ງຍັງບໍ່ເທົ່າກັບເຄິ່ງໜຶ່ງຂອງເວລາເມື່ອທຽບໃສ່ກ່ອນນີ້, ຊ່ວຍໃຫ້ຜູ້ນໍາໃຊ້ມີຄວາມຮູ້ສຶກວ່າການໂທໄດ້ເຊື່ອມຫາກັນໄວທີ່ສຸດເມື່ອກົດໂທອອກ.	Ưu điểm đầu tiên là các cuộc gọi VoLTE chỉ diễn ra trong 2,7 giây, tức là chưa bằng một nửa thời gian so với trước đây, tạo cho người dùng cảm giác các cuộc gọi được kết nối ngay khi cuộc gọi được quay số.
+ບໍລິການ VoLTE ໄດ້ນໍາໃຊ້ພຽງແຕ່ເມື່ອໂທລະສັບທັງສອງໜ່ວຍລ້ວນແຕ່ໄດ້ຈົດທະບຽນ ແລະເປີດບໍລິການນີ້.	VoLTE chỉ khả dụng khi cả hai điện thoại được đăng ký và kích hoạt.
+ໂດຍ: ເກື່ອງດັ້ງ.	By: Cuong Dang.

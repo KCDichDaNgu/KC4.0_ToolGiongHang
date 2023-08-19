@@ -1,0 +1,15 @@
+ກປ.ອອນໄລ - ຕອນບ່າຍວັນທີ 22 ຕຸລາ, ກຸ່ມບໍລິສັດອຸດສາຫະກໍາ - ໂທລະຄົມມະນາຄົມກອງທັບ (Viettel) ໃຫ້ຮູ້ວ່າ, ຊອບແວໄລ່ຄ່າບໍລິການຂອງ Viettel (vOCS 3.0) ໄດ້ຮັບລາງວັນຄໍາ “ຜະລິດຕະພັນ ຫຼືບໍລິການດີທີ່ສຸດຂອງປີ ຈາກຄະນະຈັດຕັ້ງລາງວັນທຸລະກິດສາກົນ - International Business Stevie Awards.	Chiều 22/10, Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel) công bố Phần mềm Cước Viettel (vOCS 3.0) đã được trao giải thưởng “Sản phẩm hoặc dịch vụ tốt nhất của năm” do International Business Stevie Awards trao tặng.
+ຊອບແວ vOCS 3.0 ຂອງ Viettel ແມ່ນຜະລິດຕະພັນເຕັກໂນໂລຢີຂໍ້ມູນຂ່າວສານໜຶ່ງດຽວຂອງຫວຽດນາມ ໄດ້ຮັບລາງວັນດັ່ງກ່າວໃນປີນີ້.	Phần mềm vOCS 3.0 của Viettel, sản phẩm công nghệ thông tin duy nhất của Việt Nam, đã nhận được giải thưởng năm nay.
+ຄະນະກໍາມະການຕີລາຄາສູງ vOCS 3.0 ຂອງ Viettel ກ່ຽວກັບຫົວຄິດປະດິດສ້າງ;	Ủy ban Phiên dịch cấp cao về Đổi mới sáng tạo của Viettel vOCS 3.0;
+ການກະທົບເຖິງຜູ້ນໍາໃຊ້ບໍລິການ, ການຮັບໃຊ້ລູກຄ້າດ້ວຍວີທີສະເພາະ.	Tác động đến người sử dụng dịch vụ, dịch vụ khách hàng một cách cụ thể.
+ປະຈຸບັນ, vOCS 3.0 ຂອງ Viettel ໄດ້ເປີດນໍາໃຊ້ຢູ່ 11 ປະເທດ, ດ້ວຍ 170 ເບີໂທລະສັບມືຖື.	Hiện tại, Viettel vOCS 3.0 đã có mặt tại 11 quốc gia, với 170 đầu số di động.
+ຈຸດພິເສດທີ່ສຸດຂອງ vOCS 3.0 ແມ່ນຄວາມສາມາດດຶງດູດລູກຄ້ານຳໃຊ້ບໍລິການຜູ້ລະ 1 ແພັກເກັດ.	Điểm nổi bật của vOCS 3.0 là khả năng thu hút khách hàng với một gói cho mỗi dịch vụ.
+ຜູ້ຕາງໜ້າຂອງ Viettel ຮັບລາງວັນຈາກຄະນະຈັດຕັ້ງລາງວັນ.	Đại diện Viettel nhận giải thưởng từ Ban tổ chức giải.
+ພາບ: ແທງຮ່າ.	Ảnh: Thanh Hà
+ຕີລາຄາກ່ຽວກັບເລື່ອງ Viettel ຍາດໄດ້ລາງວັນຂອງ Stevie Awards 2018, ທ່ານນາງ Clara – ຜູ້ອໍານວຍການສື່ສານພາກພື້ນອາຊີ ຖືວ່າ: ຄະນະກໍາມະການຂອງ Stevie Awards IBA 2018 ຕີລາຄາຢ່າງຕັ້ງໜ້າ ແລະທຸກໆຄົນລ້ວນແຕ່ເຫັນດີເປັນເອກະພາບໃຫ້ລາງວັນຄໍາ.	Nhận xét về việc Viettel đoạt giải Stevie Awards 2018, bà Clara - Giám đốc Truyền thông Khu vực Châu Á: Ban giám khảo IBA 2018 Stevie Awards đánh giá rất cao và mọi người đều nhất trí trao giải vàng.
+ລະບົບໄລ່ຄ່າບໍລິການ (vOCS 3.0) ຂອງກຸ່ມບໍລິສັດອຸດສາຫະກໍາ - ໂທລະຄົມມະນາຄົມກອງທັບ (Viettel) ປະຈຸບັນໄດ້ສໍາເລັດການໜູນຊ່ວຍພື້ນຖານເຕັກໂນໂລຢີລວງຕາ Cloud/NFV ໃຫ້ລຸ້ນ 4.0.	Viễn thông Charge (vOCS 3.0) của Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel) hiện đã hoàn thành hỗ trợ công nghệ ảo ảnh Cloud / NFV cho phiên bản 4.0.
+ເຕັກໂນໂລຢີຊ່ວຍ vOCS 4.0 ປະຢັດລາຍຈ່າຍ, ໜູນຊ່ວຍການບໍລິຫານໃຫ້ງ່າຍດາຍກວ່າ.	Công nghệ giúp vOCS 4.0 tiết kiệm chi phí, đơn giản hóa việc quản trị.
+ຈາກນັ້ນເປີດກາລະໂອກາດດໍາເນີນທຸລະກິດໃນທົ່ວໂລກ.	Sau đó, mở ra cơ hội kinh doanh trên khắp thế giới.
+IBA - International Business Stevie Awards, ແມ່ນລາງວັນດໍາເນີນທຸລະກິດສາກົນໄດ້ຈັດຕັ້ງປະຈໍາປີແຕ່ປີ 2003.	IBA - International Business Stevie Awards, là giải thưởng kinh doanh quốc tế được tổ chức thường niên từ năm 2003.
+ເພື່ອແນໃສ່ເຊີດຊູບັນດາຜົນງານ, ປະກອບສ່ວນຢ່າງຕັ້ງໜ້າຂອງວິສາຫະກິດ, ບຸກຄົນໃນທົ່ວໂລກສໍາລັບຜົນປະໂຫຍດຂອງປະຊາຄົມ, ໃນນັ້ນມີຂົງເຂດເຕັກໂນໂລຢີຂໍ້ມູນຂ່າວສານ ແລະໂທລະຄົມມະນາຄົມ.	Quảng bá thành tựu của các doanh nghiệp và cá nhân trên thế giới vì lợi ích cộng đồng, bao gồm cả trong lĩnh vực công nghệ thông tin và viễn thông.
+ໂດຍ: ບົວພອນ.	Bởi: Buaphone.

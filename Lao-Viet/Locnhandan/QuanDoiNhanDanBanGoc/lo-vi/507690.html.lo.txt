@@ -1,0 +1,10 @@
+ກປ.ອອນໄລ - ກຸ່ມບໍລິສັດອຸດສາຫະກໍາ-ໂທລະຄົມມະນາຄົມກອງທັບ Viettel ຫາກໍ່ປະກາດວ່າໄດ້ເປີດນຳໃຊ້ສະຖານີສົ່ງສັນຍານທໍາອິດ 30 ແຫ່ງ ພ້ອມກັບພື້ນຖານ (platform) ຜັນຂະຫຍາຍການບໍລິການນໍາໃຊ້ເຕັກໂນໂລຢີ NB-IoT ຢູ່ຮ່າໂນ້ຍ.	Tập đoàn Công nghiệp - Viễn thông Quân đội Viettel vừa công bố khai trương 30 trạm thu phát sóng đầu tiên với nền tảng triển khai dịch vụ công nghệ NB-IoT tại Hà Nội.
+NB-IoT ແມ່ນເຕັກໂນໂລຢີ ພັດທະນາສຳລັບອຸປະກອນຕ່າງໆ ເພື່ອແນໃສ່ໜູນຊ່ວຍເຊື່ອມຕໍ່ທຸກຢ່າງ (IoT).	NB-IoT là công nghệ được phát triển cho các thiết bị hướng đến giao diện tất cả trong một (IoT).
+ນີ້ແມ່ນໝາກຜົນແຫ່ງການຄົ້ນຄວ້າ, ທົດລອງຂອງ Viettel ໃນຕະຫຼອດ 2 ປີຜ່ານມາ.	Đây là kết quả của quá trình nghiên cứu và thử nghiệm của Viettel trong hơn 2 năm qua.
+ທົ່ວລະບົບໂຄງລ່າງ ແລະພື້ນຖານໃຫ້ IoT ຂອງ Viettel ພ້ອມແລ້ວທີ່ຈະສະໜອງໃຫ້ລູກຄ້າໃນເຄິ່ງຕົ້ນປີ 2019.	Cơ sở hạ tầng và thiết bị IoT của Viettel đã sẵn sàng giao cho khách hàng vào nửa đầu năm 2019.
+ປັດຈຸບັນ, Viettel ກໍ່ພວມທົດລອງບາງແອັບພຼີເຄຊັນ ໂດຍອີງໃສ່ໂຄງລ່າງເຊື່ອມຕໍ່ ແລະພື້ນຖານ IoT, ຈາກນັ້ນສ້າງພື້ນຖານ ເພື່ອພັດທະນາລະບົບຊີວະພາບບັນດາບໍລິການ IoT ໃນຕໍ່ໜ້າຢ່າງເປັນທາງການ.	Hiện tại, Viettel đang thử nghiệm một số ứng dụng dựa trên nền tảng kết nối và hạ tầng IoT, từ đó đặt nền móng cho việc phát triển chính thức hệ sinh thái IoT trong tương lai.
+ວິສາວະກອນຂອງ Viettel ພວມດໍາເນີນການທົດລອງແອັບພຼີເຄຊັນ IoT ກ່ອນທີ່ຈະສະໜອງໃຫ້ລູກຄ້າຢ່າງເປັນທາງການ.	Các kỹ sư của Viettel đang thử nghiệm ứng dụng IoT trước khi cung cấp cho khách hàng.
+ພາບ: ວັນຟອງ.	Ảnh: Bubble Day
+ເຕັກໂນໂລຢີ NB- IoT ມີຄວາມສາມາດຕັດການເຊື່ອມຕໍ່ກັບອຸປະກອນ ເມື່ອບໍ່ເຄື່ອນໄຫວ, ສະນັ້ນ, ເວລາຕິດຕໍ່ຂອງອຸປະກອນຕົ້ນປາຍຖືກແກ່ຍາວເຖິງ 5 ປີ ແຕ່ບໍ່ຕ້ອງປ່ຽນຖ່ານໄຟ.	Công nghệ NB-IoT có khả năng ngắt kết nối thiết bị khi không sử dụng nên thời gian tiếp xúc của thiết bị đầu cuối lên đến 5 năm mà không cần thay pin.
+ນີ້ແມ່ນປະຖົມປັດໄຈເພື່ອສ້າງເປັນສັງຄົມດີຈີຕອນຢ່າງແທ້ຈິງໃນການປະຕິວັດອຸດສາຫະກໍາ 4.0.	Đây là yếu tố cơ bản để tạo ra một xã hội số thực sự trong Cách mạng Công nghiệp 4.0.
+ໂດຍ: ທູຈາງ.	Bởi: Tu Zhang.

@@ -1,0 +1,9 @@
+#!/bin/sh
+export VECALIGN_LO_VI=/workspace/ntha/Lao_Viet/alignment/vecalign
+cd /workspace/ntha/Lao_Viet/alignment/api
+screen -S api.align.vi-zh
+. /workspace/ntha/anaconda3/etc/profile.d/conda.sh
+conda activate vecalign
+python kill_process.py
+python api_align_lo_vi.py
+

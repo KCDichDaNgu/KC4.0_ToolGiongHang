@@ -1,0 +1,6 @@
+VTS ກໍານົດວ່າຕ້ອງສ້າງຖັນແຖວພະນັກງານຊ່ຽວຊານແຖວໜ້າໃນຂະແໜງທັງຢູ່ພາຍໃນ ແລະຕ່າງປະເທດໃຫ້ 5 ຂົງເຂດຈຸດສຸມ, ລວມມີ: ການບໍລິການໃຫ້ຄຳປຶກສາ, ການຫັນປ່ຽນ ແລະຄຸ້ມຄອງ Cloud;	VTS xác định cột nhân viên dự kiến trong các lĩnh vực quốc tế và nước ngoài, bao gồm các dịch vụ quản lý đám mây, chuyển đổi và đám mây;
+ບັນດາການບໍລິການວິໄຈຂໍ້ມູນ ແລະຫັນປ່ຽນ AI;	Phân tích dữ liệu và sự chuyển đổi của AI;
+ບັນດາມາດຕະການກໍານົດທີ່ຕັ້ງອີງໃສ່ເຕັກໂນໂລຢີ IoT;	Các biện pháp được thiết lập trên công nghệ IoT;
+ບັນດາມາດຕະການອຸດສາຫະກໍາ 4.0;	Các biện pháp công nghiệp 4.0;
+ບັນດາມາດຕະການດີຈີຕອນສໍາລັບລັດຖະບານ, ການສຶກສາ ແລະສາທາລະນະສຸກ.	Các biện pháp kỹ thuật số cho chính phủ, giáo dục và sức khỏe.
+ໂດຍ: ເກື່ອງດັ້ງ.	Bởi: Trương.

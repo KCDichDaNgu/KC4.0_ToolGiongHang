@@ -1,0 +1,23 @@
+ກປ.ອອນໄລ - ວັນທີ 29 ກັນຍາ, ຮອບຊີງຊະນະເລີດການແຂ່ງຂັນ “Vietnam IoT Hackathon 2017 ໄດ້ໄຂຂຶ້ນຢູ່ຕຶກອາຄານ Viettel Complex-ນະຄອນໂຮ່ຈິມິນ ຢ່າງເປັນທາງການ, ດ້ວຍການເຂົ້າຮ່ວມຂອງ 18 ທີມທີ່ໄດ້ຜ່ານຮອບຄັດເລືອກຢ່າງດີເດັ່ນເພື່ອມີໝ້າຢູ່ນີ້.	KPR Online - Ngày 29/9, các đội đoạt giải “Vietnam IoT Hackathon 2017” đã chính thức khai mạc tại Khu liên hợp Viettel - TP.HCM, với sự tham gia của 18 đội vượt qua vòng loại.
+ທ່ານ ຟູ່ງວັນເກື່ອງ, ຮອງຜູ້ອຳນວຍການໃຫຍ່ບໍລິສັດໃຫຍ່ໂທລະຄົມມະນາຄົມ Viettel ກ່າວຄໍາເຫັນທີ່ພິທີໄຂ.	Ông Phong Văn Cường, Phó Tổng Giám đốc Viettel Telecom phát biểu tại lễ khai trương.
+ພາບ: ເກິ໊ມທຸຍ	Ảnh: Kem Thủy
+ຫົວຂໍ້ຂອງການແຂ່ງຂັນປີນີ້ແມ່ນ Internet of Things, ເຊິ່ງກ່ຽວຂ້ອງເຖິງບັນດາບັນຫາກ່ຽວກັບໂຮງຈັກສະຫຼາດ;	Chủ đề của cuộc thi năm nay là Internet of Things, giải quyết các vấn đề về nhà máy thông minh;
+ກະສິກໍາສະຫຼາດ;	Nông nghiệp thông minh;
+ພະລັງງານສະຫຼາດ;	Sức mạnh thông minh;
+ການຂາຍຍ່ອຍສະຫຼາດ;	Bán lẻ thông minh;
+ເຄື່ອງອຸປະກອນໃສ່ຖືສະຫຼາດ;	Phụ kiện thông minh;
+ຫັນເປັນອັດຕະໂນມັດ;	Được bật tự động;
+ນະຄອນສະຫຼາດ;	Thành phố thông minh;
+ຄວາມໝັ້ນຄົງ, ສຸຂະພາບ;	Ổn định, sức khỏe;
+ການຜະລິດສະຫຼາດ.	Sản xuất thông minh.
+ຄຸນນະພາບບົດເສັງໄດ້ຮັບການຕີລາຄາໂດຍອີງຕາມ 5 ມາດຕະຖານຄື: ການສຳຜັດກັບບັນຫາ;	Chất lượng bài thi được đánh giá theo 5 tiêu chí: giải quyết vấn đề;
+ການປະຕິບັດ;	Hiệu suất;
+ການກະທົບ;	Va chạm;
+ການເຕັກນິກ ແລະຄວາມປະທັບໃຈ.	Kỹ thuật và ấn tượng.
+ຕາມການຕີລາຄາຂອງຄະນະຈັດຕັ້ງ, ເຂົ້າຮ່ວມການແຂ່ງຂັນປີນີ້ມີບັນດາທີມຍັງໜຸ່ມ, ມີນັກສຶກສາປີທີ 2, ປີທີ 3 ຫຼາຍຄົນດ້ວຍຈິດໃຈເລີ່ມທຸລະກິດສູງທີ່ສຸດ.	Theo ban tổ chức, cuộc thi năm nay vẫn có các đội trẻ tham gia, trong đó có nhiều sinh viên năm 2, 3 có tinh thần khởi nghiệp kinh doanh cao nhất.
+ບັນດານັກສອບເສັງເລີ່ມຕົ້ນການແຂ່ງຂັນ.	Giám khảo bắt đầu cuộc thi.
+ພາບ: ເກິ໊ມທຸຍ	Ảnh: Kem Thủy
+ທ່ານ ຟູ່ງວັນເກື່ອງ, ຮອງຜູ້ອຳນວຍການໃຫຍ່ບໍລິສັດໃຫຍ່ໂທລະຄົມມະນາຄົມ Viettel ຖືວ່າ IOT ປະຈຸບັນແມ່ນທ່າອ່ຽງ ແລະມີຄວາມສາມາດບົ່ມຊ້ອນໃຫຍ່ທີ່ສຸດໃນໂລກ.	Ông Phong Văn Cường, Phó Tổng Giám đốc Viettel Telecom, coi IoT là tiềm năng lớn và hứa hẹn nhất thế giới.
+ການແຂ່ງຂັນ “Vietnam IOT Hackathon 2017 ໂດຍກຸ່ມບໍລິສັດໂທລະຄົມມະນາຄົມກອງທັບຈັດຕັ້ງໃນຂອບຂະໜາດທົ່ວປະເທດດ້ວຍໂຄງປະກອບລາງວັນທີ່ມີມູນຄ່າເກືອບ 600 ລ້ານດົ່ງພ້ອມໃຫ້ຄໍາໝັ້ນສັນຍາໜູນຊ່ວຍຢ່າງແທດຈິງຈາກຄະນະຈັດຕັ້ງເພື່ອສ້າງສໍາເລັດ ແລະພັດທະນາຜະລິດຕະພັນ.	Cuộc thi “Vietnam IOT Hackathon 2017” do Tập đoàn Viễn thông Quân đội tổ chức được tổ chức trên phạm vi toàn quốc với cơ cấu giải thưởng trị giá gần 600 triệu đồng, với cam kết hoàn thiện và phát triển sản phẩm của ban tổ chức.
+ເຫດການໄດ້ຂີດໝາຍບັນດາການກະທໍາໜູນຊ່ວຍ ແລະການລົງທຶນຢ່າງລະອຽດຂອງ Viettel ໃຫ້ບັນດາ StartUp ທີ່ມີແງ່ຫວັງ, ເພີ່ມກໍາລັງໃຫ້ບັນດາຜູ້ທີ່ມີຄວາມເກັ່ງກ້າສາມາດໃນຂົງເຂດ IOT ຂອງວົງພູມປັນຍາໜຸ່ມ ຫວຽດນາມ, ພ້ອມທັງຊຸກຍູ້ຈິດໃຈເລີ່ມທຸລະກິດ, ເມົາມົວປະດິດສ້າງຂອງບັນດາເພື່ອນໜຸ່ມທີ່ມີຄວາມນິຍົມກັບເຕັກໂນໂລຢີ.	Sự kiện này nêu bật các dự án hỗ trợ và đầu tư của Viettel cho các công ty khởi nghiệp triển vọng, tiếp sức cho những người tài năng trong lĩnh vực IoT của trí thức Việt Nam, cũng như khuyến khích các doanh nghiệp khởi nghiệp, đổi mới sáng tạo và những người đam mê công nghệ.
+ແປໂດຍ: ເຈິ່ນຮວ່ຽນ.	Người dịch: Trần Huyền

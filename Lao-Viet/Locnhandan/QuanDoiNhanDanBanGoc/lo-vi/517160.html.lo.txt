@@ -1,0 +1,23 @@
+ກປ.ອອນໄລ - ໂດຍແມ່ນ 1 ໃນ 5 ສູນຂໍ້ມູນ ຂອງບໍລິສັດ Viettel-CHT ຈໍາກັດ (Viettel IDC - ກຸ່ມບໍລິສັດອຸດສາຫະກໍາ-ໂທລະຄົມມະນາຄົມກອງທັບ), ສູນຂໍ້ມູນຮວ່າລາກ ໄດ້ຮັບການຕີລາຄາວ່າແມ່ນສູນຂໍ້ມູນໃຫຍ່ທີ່ສຸດຢູ່ພາກເໜືອ ດ້ວຍເນື້ອທີ່ທັງໝົດ 6.500 ຕາແມັດ, ມີຂອບຂະໜາດ 1.200 ຕູ້ rack.	KR Online - Là một trong năm trung tâm dữ liệu của Công ty TNHH Viettel-CHT (Viettel IDC - Tập đoàn Công nghiệp - Viễn thông Quân đội), Trung tâm dữ liệu Hòa Lạc được coi là trung tâm dữ liệu lớn nhất khu vực với tổng diện tích 6.500 mét vuông, với sức chứa 1.200 tủ.
+ດ້ວຍພາລະກໍາຂຸດຄົ້ນການບໍລິການສູນຂໍ້ມູນອິນເຕີແນັດຢູ່ຫວຽດນາມ ແລະສະໜອງຂໍ້ມູນດີທີ່ສຸດຕາມມາດຕະຖານສາກົນ, ວັນທີ 6 ມີນາ 2008 ເປັນວັນສ້າງຂີດໝາຍແຫ່ງການກໍາເນີດຂອງ Viettel IDC.	Với sứ mệnh khai phá dịch vụ trung tâm dữ liệu Internet tại Việt Nam và cung cấp thông tin tốt nhất theo tiêu chuẩn quốc tế, ngày 06/03/2008 là ngày đánh dấu sự ra đời của Viettel IDC.
+ມາຮອດປັດຈຸບັນ, ສະຖານທີ່ແຫ່ງນີ້ແມ່ນກົມກອງສະໜອງການບໍລິການສູນຂໍ້ມູນ ແລະ cloud computing ແຖວໜ້າຢູ່ຫວຽດນາມ ດ້ວຍສູນຂໍ້ມູນ 5 ແຫ່ງທີ່ໄດ້ກໍ່ສ້າງໃນທົ່ວປະເທດ.	Đến nay, cơ sở này là trung tâm dữ liệu và bộ phận cung cấp dịch vụ điện toán đám mây hàng đầu Việt Nam với 5 trung tâm dữ liệu được xây dựng trên cả nước.
+ສູນຂໍ້ມູນຮວ່າລາກ ໄດ້ຮັບການກໍ່ສ້າງຢູ່ເຂດເຕັກໂນໂລຢີສູງຮວ່າລາກ, ເຊິ່ງແມ່ນສູນຂໍ້ມູນທີ່ດີເດັ່ນຂອງ Viettel IDC ທີ່ໄດ້ຮັບການກໍ່ສ້າງ ແລະອອກແບບຖືກຕາມມາດຕະຖານສາກົນຢ່າງເຂັ້ມງວດ.	Trung tâm dữ liệu Hoalak tọa lạc tại Khu Công nghệ cao Hoalak, là trung tâm dữ liệu Viettel IDC nổi bật được xây dựng và thiết kế theo đúng tiêu chuẩn quốc tế.
+ສູນຂໍ້ມູນຮວ່າລາກ ໄດ້ຮັບການກໍ່ສ້າງດ້ວຍຄວາມສາມາດຕ້ານການແຜ່ນດິນໄຫວທີ່ມີຄວາມແຮງ 7 ຣີກເຕີ.	Trung tâm Thông tin Hòa Lạc được xây dựng với cường độ 7 độ Richter.
+ລະບົບເຄື່່ອງສົ່ງ ແລະອ່າງເກັບນໍ້າມັນໃຕ້ດິນ ໄດ້ອອກແບບທີ່ມີຄວາມສາມາດຮັບປະກັນໃຫ້ສູນຂໍ້ມູນໄດ້ທໍາງານຢ່າງຕໍ່ເນື່ອງໃນ 72 ໂມງ.	Hệ thống truyền dẫn và hồ chứa lưu trữ ngầm được thiết kế để đảm bảo trung tâm dữ liệu hoạt động liên tục trong 72 giờ.
+ສູນຂໍ້ມູນຮວ່າລາກ ລວມມີ 8 ຊັ້ນ, ໃນນັ້ນຊັ້ນທີ 1 ແມ່ນຊັ້ນຕິດຕາມລວມ, ແຕ່ຊັ້ນ 2-7 ແມ່ນຫ້ອງເຊີເວີ, ຊັ້ນທີ 8 ແມ່ນຫ້ອງ chiller (ຫ້ອງທໍາຄວາມເຢັນ), ລະບົບຂອງລູກຄ້າທັງໝົດໄດ້ປ້ອງກັນເປັນ 5 ຊັ້ນຢ່າງເຂັ້ມງວດ.	Trung tâm Thông tin Hòa Lạc gồm 8 tầng, trong đó tầng 1 là tầng chung nhưng tầng 2 là phòng máy chủ, tầng 8 là phòng chiller (phòng làm mát), tất cả hệ thống của khách hàng đều được bảo vệ nghiêm ngặt thành 5 tầng.
+ເຄື່ອງເຊີເວີໄດ້ຕິດຕັ້ງຢູ່ຊັ້ນຕ່າງໆ, ແຕ່ລະຊັ້ນໄດ້ແບ່ງເປັນ 2 ຫ້ອງແຕກຕ່າງກັນ ດ້ວຍປະລິມາມ 200 ຕູ້ rack/ຫ້ອງ.	Máy chủ được lắp đặt ở các tầng khác nhau, mỗi tầng được chia thành 2 phòng riêng biệt, tối đa 200 kệ / tủ.
+ແຕ່ລະຫ້ອງໄດ້ແບ່ງເປັນເຂດເຊົ່າລວມ ແລະເຂດເຊົ່າສະເພາະ.	Mỗi phòng được chia thành khu cho thuê chung và khu cho thuê riêng.
+ພາບ: qdnd.vn.	Ảnh: qdnd.vn.
+ເຂດເຊົ່າລວມ ແລະເຂດເຊົ່າສະເພາະຖືກກັ້ນດ້ວຍຂອບເຫຼັກ.	Khu vực cho thuê chung và cho thuê riêng được ngăn cách bằng khung thép.
+ພາບ: qdnd.vn.	Ảnh: qdnd.vn.
+ມີແຕ່ບຸກຄະລາກອນຂອງລູກຄ້າຈຶ່ງອະນຸຍາດໃຫ້ເຂົ້າອອກເຂດເຊົ່າສະເພາະໄດ້.	Chỉ nhân viên của khách hàng mới được phép ra vào khu vực thuê.
+ພາບ: qdnd.vn.	Ảnh: qdnd.vn.
+ວິສະວະກອນຂອງ Viettel IDC ກວດກາອຸປະກອນ.	Kỹ sư Viettel IDC kiểm tra thiết bị.
+ພາບ: qdnd.vn.	Ảnh: qdnd.vn.
+ຫ້ອງສົ່ງສັນຍານສະໜອງສາຍສົ່ງເຊື່ອມຕໍ່ອິນເຕີແນັດທີ່ແຕກຕ່າງກັນໃຫ້ແກ່ບັນດາບໍລິສັດສະໜອງການບໍລິການ.	Đường truyền thứ cấp cung cấp các kết nối internet khác nhau cho các công ty dịch vụ thứ cấp.
+ພາບ: qdnd.vn.	Ảnh: qdnd.vn.
+ລະບົບປ້ອງກັນ, ຕ້ານໄຟໄໝ້ໄດ້ຕິດຕັ້ງຕາມມາດຕະຖານສາກົນ, ຮັບປະກັນຄວາມປອດໄພໃຫ້ແກ່ຜູ້ຄົນ ແລະເຄື່ອງອຸປະກອນ.	Hệ thống phòng cháy chữa cháy được lắp đặt theo tiêu chuẩn quốc tế, đảm bảo an toàn cho người và thiết bị.
+ພາບ: qdnd.vn.	Ảnh: qdnd.vn.
+ຫ້ອງຕິດຕາມກວດກາຢູ່ສູນຂໍ້ມູນຮ່ວາລາກ ລວມມີພາລະກອນ 18 ຄົນ, ເຂົາເຈົ້າເຮັດວຽກ 24/7 ເພື່ອຮັບປະກັນຄວາມປອດໄພໃຫ້ແກ່ລະບົບເຄື່ອງອຸປະກອນ.	Phòng giám sát tại Trung tâm Thông tin Hòa Lạc gồm 18 nhân sự, túc trực 24/7 để đảm bảo an ninh cho hệ thống thiết bị.
+ພາບ: qdnd.vn.	Ảnh: qdnd.vn.
+ໂດຍ: ທູຈາງ.	Bởi: Tu Zhang.
